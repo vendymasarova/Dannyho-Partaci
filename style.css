@@ -468,6 +468,7 @@ blockquote::after {
 .review .carousel-item img {
   width: 120px;
   border-radius: 50%;
+  transform: translateY(10px);
 }
 
 .review .carousel-item {
@@ -503,6 +504,7 @@ blockquote::after {
 .review .carousel-indicators li {
   background-color: #b37d27 !important;
 }
+
 @media only screen and (max-width: 800px) {
   .review .carousel-item {
     height: 520px;
