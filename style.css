@@ -113,8 +113,14 @@
   z-index: 8 !important;
 }
 
-.trading {
+.trading,
+.oneteam {
   height: 467px;
+  margin: 0;
+}
+
+.oneteam {
+  margin-right: 0;
 }
 /*------------------citat-------------*/
 
